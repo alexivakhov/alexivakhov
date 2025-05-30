@@ -1,6 +1,7 @@
- /\_/\ 
-( o.o )
- > ^ <
+/_/\   .-”””-.
+( o.o ) / vibe \
+
+^ <  \ code /
  
 ### 👋 Hi, I'm not a developer — I'm a vibe coder ⚡️
 
