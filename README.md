@@ -1,16 +1,20 @@
-## Hi there 👋
+ /\_/\ 
+( o.o )
+ > ^ <
+ 
+### 👋 Hi, I'm not a developer — I'm a vibe coder ⚡️
 
-<!--
-**alexivakhov/alexivakhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub!  
+I'm here not for profit — but for passion. I don’t build commercial apps; I build what sparks joy 🌱
 
-Here are some ideas to get you started:
+🚫 Don't throw rotten tomatoes — I'm not your typical dev.  
+🧠 I use tools like [Cursor] and Claude 3.7 Sonnet to ride the AI wave.  
+💡 My projects are fueled by curiosity, creativity, and the occasional existential crisis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Expect:
+- Unusual ideas
+- Imperfect code with perfect vibes
+- Zero deadlines, max dopamine
+
+Let’s just say:  
+**“If it makes me smile — it’s worth building.”**
