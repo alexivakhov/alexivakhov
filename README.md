@@ -1,9 +1,7 @@
 ```markdown
-<pre>
  /\_/\   .-"""-.
 ( o.o ) / vibe \
  > ^ <  \ code /
-</pre>
  
 ### 👋 Hi, I'm not a developer — I'm a vibe coder ⚡️
 
